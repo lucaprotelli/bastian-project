@@ -1,0 +1,24 @@
+--- SICUREZZA (Non caricare mai questi!) ---
+
+.env
+.env.local
+.env.*.local
+
+--- Python Backend ---
+
+backend/venv/
+backend/pycache/
+*.pyc
+
+--- Next.js Frontend ---
+
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.vercel/
+
+--- Sistema Operativo ---
+
+.DS_Store
+Thumbs.db
