@@ -1,0 +1,17 @@
+--- SICUREZZA (Non caricare mai questi!) ---
+
+.env
+.env.local
+.env.*.local
+
+--- Python Backend ---
+
+backend/venv/
+backend/pycache/
+*.pyc
+
+
+--- Sistema Operativo ---
+
+.DS_Store
+Thumbs.db
