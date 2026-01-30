@@ -1,8 +1,8 @@
 --- SICUREZZA (Non caricare mai questi!) ---
  
-.env
-.env.local
-.env.*.local
+backend/env
+backend/.env.local
+backend/.env.*.local
 
 --- Python Backend ---
 
