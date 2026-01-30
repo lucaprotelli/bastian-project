@@ -8,8 +8,16 @@
 
 backend/venv/
 backend/pycache/
+pycache/
 *.pyc
 
+--- Next.js Frontend ---
+
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.vercel/
 
 --- Sistema Operativo ---
 
